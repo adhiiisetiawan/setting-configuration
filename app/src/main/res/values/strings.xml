@@ -9,4 +9,6 @@
     <string name="key_email">key_email</string>
     <string name="phone_number">Phone Number</string>
     <string name="key_phone">key_phone_number</string>
+    <string name="key_love">key_love</string>
+    <string name="is_love">Is Love Manchester United?</string>
 </resources>
